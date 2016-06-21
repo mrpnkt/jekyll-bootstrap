@@ -1,8 +1,16 @@
 ---
+title: Jekyll Introduction
+date: '2011-12-29 00:00:00'
+categories: lessons
 layout: post
-category : lessons
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+tagline: Supporting tagline
+tags:
+- intro
+- beginner
+- jekyll
+- tutorial
+slug: jekyll-introduction
+
 ---
 {% include JB/setup %}
 
